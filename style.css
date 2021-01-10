@@ -1,3 +1,28 @@
-.kyujin, .btn, .seikei{
+body{
+    color: #444;
+}
+
+.title{
+    display: inline;
+    text-align: center;
+    font-size: 14px;
+}
+
+textarea{
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 30px;
 }
